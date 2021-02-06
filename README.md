@@ -8,4 +8,6 @@ This pack teleports you when you first join the world or when you die without a 
 
 This pack also hides your coordinates and displays them only while holding a compass.
 
-
+## Optional (No Bed Version):
+Contained within is an optional version that disables the respawning on beds and teleports you on every death.
+Use this for a more difficult challange.
